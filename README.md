@@ -1,2 +1,2 @@
-# KPConv-PyTorch
-PyTorch Implementation of KPCNN
+# RandLA-Net-PyTorch
+PyTorch Implementation of RandlA-Net
